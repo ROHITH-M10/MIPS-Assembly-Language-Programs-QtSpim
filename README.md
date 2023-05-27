@@ -1,2 +1,2 @@
 # QtSpim
-QtSpim programs
+QtSpim practice programs
